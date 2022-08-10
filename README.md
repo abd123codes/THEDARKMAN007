@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-@AbdulsamadAdams-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulsamad-adams-5a0876225/)](https://www.linkedin.com/in/abdulsamad-adams-5a0876225/) 
 [![Twitter Badge](https://img.shields.io/badge/-@Abdulsa56244551-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Abdulsa56244551)](https://twitter.com/Abdulsa56244551)
 
-I'm a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at [Commerce Layer](https://commercelayer.io). I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I create technical content (on my [Blog](https://bolajiayodeji.com/), [Newsletter](https://bawd.bolajiayodeji.com), and [YouTube](https://www.youtube.com/c/bolajiayodeji)), build useful [open-source projects](https://github.com/BolajiAyodeji), speak at some meetups/conferences, build technical communities...
+I'm an aspiring Software Engineer learning front-end engineering at [AltSchool Africa](https://www.altschoolafrica.com/). I'm passionate about learning, sharing knowledge, documentation, web engineering, blockchain development and others. I build useful [open-source projects](https://github.com/BolajiAyodeji), build technical communities...
 
 **Here's a quick summary about me**:
 
@@ -16,7 +16,13 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing aabdulsamadsadiq@gmail.com.
 
+<b>TECHNICAL SKILLS<b/> <br/>
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff" alt="HTML-badge"/>
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3-badge"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=css3&logoColor=white" alt="javaScript-badge"/>
+
 ---
 
+  
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=THEDARKMAN007&show_icons=true&include_all_commits=true&hide_border=true" alt="Abdulsamad's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEDARKMAN007&langs_count=8&layout=compact&hide_border=true" alt="Abdulsamad's GitHub stats" /> |
 | ------------- | ------------- |
