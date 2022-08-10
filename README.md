@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-@AbdulsamadAdams-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulsamad-adams-5a0876225/)](https://www.linkedin.com/in/abdulsamad-adams-5a0876225/) 
 [![Twitter Badge](https://img.shields.io/badge/-@Abdulsa56244551-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Abdulsa56244551)](https://twitter.com/Abdulsa56244551)
 
-I'm an aspiring Software Engineer learning front-end engineering at [AltSchool Africa](https://www.altschoolafrica.com/). I'm passionate about learning, sharing knowledge, documentation, web engineering, blockchain development and others. I build useful [open-source projects](https://github.com/BolajiAyodeji), build technical communities...
+I'm an aspiring Software Engineer learning front-end engineering at [AltSchool Africa](https://www.altschoolafrica.com/). I'm passionate about learning, sharing knowledge, documentation, web engineering, blockchain development and others. I build useful [open-source projects](https://github.com/THEDARKMAN007), build technical communities...
 
 **Here's a quick summary about me**:
 
