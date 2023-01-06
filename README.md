@@ -20,6 +20,11 @@ I'm an aspiring Software Engineer learning front-end engineering at [AltSchool A
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff" alt="HTML-badge"/>
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3-badge"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=css3&logoColor=white" alt="javaScript-badge"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="saas-badge"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs-badge"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vuejs-badge"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss-badge"/>
+  
 
 ---
 
