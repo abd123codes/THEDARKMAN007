@@ -5,15 +5,15 @@
 <!-- [![Website
 Badge](https://img.shields.io/badge/-bolajiayodeji.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://bolajiayodeji.com)](https://bolajiayodeji.com) -->
 
-I'm an aspiring Software Engineer learning front-end engineering at [AltSchool Africa](https://www.altschoolafrica.com/). I'm passionate about learning, sharing knowledge, documentation, web engineering, blockchain development and others. I build useful [open-source projects](https://github.com/THEDARKMAN007), build technical communities...
+I'm an aspiring Software Engineer focusing on front-end development. I'm passionate about bringing web ideas to life. I share my experiences, expertise, and knowledge on [linkedIn](https://www.linkedin.com/in/abdulsamad-adams/).
 
 **Here's a quick summary about me**:
 
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I'm a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently building a design agency website with Reactjs.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m looking for help with open-source projects, freelance jobs, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can <!--[view my resume](#) and--> contact me by emailing aabdulsamadsadiq@gmail.com.
+- 📫 You can <!--[view my portfolio](https://as-awesome-site-d21bb2.webflow.io/) and--> contact me by emailing aabdulsamadsadiq@gmail.com.
 
 <b>TECHNICAL SKILLS<b/> <br/>
 - Basic web technologies
@@ -23,7 +23,7 @@ I'm an aspiring Software Engineer learning front-end engineering at [AltSchool A
   
 - Pre-processors
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="saas-badge"/>
-  
+
 - Design/css framework(s)
  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss-badge"/>
  
